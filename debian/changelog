@@ -1,0 +1,42 @@
+fcitx-hangul (0.3.0-3.1~xenial0320~3beol) xenial; urgency=low
+
+  * https://github.com/fcitx/fcitx-hangul
+  * 드보락, 콜맥의 쿼티 변환의 잘못을 고친다
+  * [ ` ] 와 [ ; ] 의 두 글쇠값의 단축키 할당을 없앤다
+
+ -- floor <createsc@gmail.com>  Sun, 04 Aug 2013 00:11:14 +0800
+
+fcitx-hangul (0.3.0-3.1~xenial0319~3beol) xenial; urgency=low
+
+  * https://github.com/fcitx/fcitx-hangul
+  * 한글 설정에서 드보락, 콜맥, 쿼티의 기본 배열을 고를 수 있게 한다
+
+ -- floor <createsc@gmail.com>  Sun, 04 Aug 2013 00:11:14 +0800
+
+fcitx-hangul (0.3.0-2.1~wily0120~3beol) wily; urgency=low
+
+  * https://github.com/fcitx/fcitx-hangul
+  * 세벌식 3-P3
+
+ -- floor <createsc@gmail.com>  Sun, 04 Aug 2013 00:11:14 +0800
+
+fcitx-hangul (0.3.0-2.0~wily1005~3beol) wily; urgency=low
+
+  * https://github.com/fcitx/fcitx-hangul
+  * 신세벌식 2015, M, P
+  * 세벌식 모아치기 2015
+
+ -- floor <createsc@gmail.com>  Sun, 04 Aug 2013 00:11:14 +0800
+
+fcitx-hangul (0.3.0-2.0~vivid0305~3beol) vivid; urgency=low
+
+  * https://github.com/fcitx/fcitx-hangul
+  * 신세벌식 1995 (신광조)
+  * 세벌식 3-2015, 3-2015P
+  * 세벌식 314 : 3-2014 - 한글문화원
+  * 세벌식 모아치기 2014
+  * 두벌식 순아래(꼬마집오리)
+    - http://pat.im/1028?commentId=77178#comment77178
+  * 두벌식 북한 국규 9256
+
+ -- floor <createsc@gmail.com>  Sun, 04 Aug 2013 00:11:14 +0800

@@ -1,0 +1,75 @@
+[Hangul/Keyboard]
+Type=Enum
+DefaultValue=Dubeolsik KSX 5002
+Description=Keyboard Layout
+EnumCount=38
+Enum0=Dubeolsik KSX 5002
+Enum1=Dubeolsik Noshift
+Enum2=Dubeolsik North 9256
+Enum3=Sebeolsik 3-90
+Enum4=Sebeolsik 3-91 Final
+Enum5=Sebeolsik 3-P3
+Enum6=Sebeolsik Semoe 2015
+Enum7=Sebeolsik Shin P
+Enum8=Sebeolsik Shin P2
+Enum9=Dubeolsik Yetgeul
+Enum10=Sebeolsik Dubeol Layout
+Enum11=Sebeolsik 3-89
+Enum12=Sebeolsik 3-91 Final Noshift
+Enum13=Sebeolsik 3-93 Yetgeul
+Enum14=Romaja
+Enum15=Ahnmatae
+Enum16=Sebeolsik 3Ahnmatae
+Enum17=Sebeolsik 3-2011
+Enum18=Sebeolsik 3-2011 Yetgeul
+Enum19=Sebeolsik 3-2012
+Enum20=Sebeolsik 3-2012 Yetgeul
+Enum21=Sebeolsik 3-2014
+Enum22=Sebeolsik 3-2014 Yetgeul
+Enum23=Sebeolsik 3-2015
+Enum24=Sebeolsik 3-2015 Yetgeul
+Enum25=Sebeolsik 3-2015M
+Enum26=Sebeolsik 3-2015P
+Enum27=Sebeolsik 3-2015P Yetgeul
+Enum28=Sebeolsik 3-14 Proposal
+Enum29=Sebeolsik Semoe 2014
+Enum30=Sebeolsik Noshift 1990
+Enum31=Sebeolsik Noshift 2014
+Enum32=Sebeolsik 3Gimguk-38A Yetgeul
+Enum33=Sebeolsik Shin 1995
+Enum34=Sebeolsik Shin 2003
+Enum35=Sebeolsik Shin 2012
+Enum36=Sebeolsik Shin 2015
+Enum37=Sebeolsik Shin M
+
+[Hangul/HanjaModeToggleKey]
+Type=Hotkey
+DefaultValue=HANGULHANJA F9
+Description=Hanja Mode Toggle Key
+
+[Hangul/AutoReorder]
+Type=Boolean
+DefaultValue=True
+Description=Auto Reorder
+
+[Hangul/WordCommit]
+Type=Boolean
+DefaultValue=False
+Description=Word Commit
+
+[Hangul/HanjaMode]
+Type=Boolean
+DefaultValue=False
+Description=Hanja Mode
+
+[Hangul/BaseLayout]
+Type=Enum
+DefaultValue=Qwerty
+Description=Base Layout
+EnumCount=3
+Enum0=Dvorak
+Enum1=Colemak
+Enum2=Qwerty
+
+[DescriptionFile]
+LocaleDomain=fcitx-hangul

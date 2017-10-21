@@ -1,0 +1,4 @@
+extend-diff-ignore = "(^|/)(autogen.sh|config\.sub|config\.guess|configure|Makefile|Makefile.in|ChangeLog.*)$"
+# Use bzip2 compression by default, we save 2.5Mb
+#compression = "bzip2"
+compression = "xz"

@@ -1,0 +1,229 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Xuetian Weng <wengxt@gmail.com>, 2013
+# Xuetian Weng <wengxt@gmail.com>, 2012
+# Xuetian Weng <wengxt@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2016-03-19 14:52+0900\n"
+"PO-Revision-Date: 2016-03-19 14:53+0900\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.com/projects/p/fcitx/language/"
+"ko/)\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: src/eim.c:764 src/fcitx-hangul.conf.in:3 src/hangul.conf.in:3
+#: src/fcitx-hangul.desc:1 src/fcitx-hangul.desc:32 src/fcitx-hangul.desc:37
+#: src/fcitx-hangul.desc:42 src/fcitx-hangul.desc:47
+msgid "Hangul"
+msgstr "한글"
+
+#: src/eim.c:815
+msgid "Use Hanja"
+msgstr "한자 사용"
+
+#: src/eim.c:818
+msgid "Use Hangul"
+msgstr "한글 사용"
+
+#: src/fcitx-hangul.conf.in:4
+msgid "Hangul Wrapper For Fcitx"
+msgstr "Fcitx의 한글 표지"
+
+#: src/fcitx-hangul.desc:4
+msgid "Keyboard Layout"
+msgstr "자판 배열"
+
+#: src/fcitx-hangul.desc:6
+msgid "Dubeolsik KSX 5002"
+msgstr "두벌식 KSX 5002 (표준)"
+
+#: src/fcitx-hangul.desc:7
+msgid "Dubeolsik Noshift"
+msgstr "두벌식 순아래"
+
+#: src/fcitx-hangul.desc:8
+msgid "Dubeolsik North 9256"
+msgstr "두벌식 국규 9256"
+
+#: src/fcitx-hangul.desc:9
+msgid "Sebeolsik 3-90"
+msgstr "세벌식 3-90"
+
+#: src/fcitx-hangul.desc:10
+msgid "Sebeolsik 3-91 Final"
+msgstr "세벌식 3-91 최종"
+
+#: src/fcitx-hangul.desc:11
+msgid "Sebeolsik 3-P3"
+msgstr "세벌식 3-P3"
+
+#: src/fcitx-hangul.desc:12
+msgid "Sebeolsik Semoe 2015"
+msgstr "세벌식 세모이"
+
+#: src/fcitx-hangul.desc:13
+msgid "Sebeolsik Shin P"
+msgstr "신세벌식 P"
+
+#: src/fcitx-hangul.desc:14
+msgid "Sebeolsik Shin P2"
+msgstr "신세벌식 P2"
+
+#: src/fcitx-hangul.desc:15
+msgid "Dubeolsik Yetgeul"
+msgstr "두벌식 옛글"
+
+#: src/fcitx-hangul.desc:16
+msgid "Sebeolsik Dubeol Layout"
+msgstr "세벌식 두벌자판"
+
+#: src/fcitx-hangul.desc:17
+msgid "Sebeolsik 3-89"
+msgstr "세벌식 3-89"
+
+#: src/fcitx-hangul.desc:18
+msgid "Sebeolsik 3-91 Final Noshift"
+msgstr "세벌식 3-91 최종 순아래"
+
+#: src/fcitx-hangul.desc:19
+msgid "Sebeolsik 3-93 Yetgeul"
+msgstr "세벌식 3-93 옛한글"
+
+#: src/fcitx-hangul.desc:20
+msgid "Romaja"
+msgstr "로마자"
+
+#: src/fcitx-hangul.desc:21
+msgid "Ahnmatae"
+msgstr "안마태"
+
+#: src/fcitx-hangul.desc:22
+msgid "Sebeolsik 3Ahnmatae"
+msgstr "세벌식 안마테"
+
+#: src/fcitx-hangul.desc:23
+msgid "Sebeolsik 3-2011"
+msgstr "세벌식 3-2011"
+
+#: src/fcitx-hangul.desc:24
+msgid "Sebeolsik 3-2011 Yetgeul"
+msgstr "세벌식 3-2011 옛한글"
+
+#: src/fcitx-hangul.desc:25
+msgid "Sebeolsik 3-2012"
+msgstr "세벌식 3-2012"
+
+#: src/fcitx-hangul.desc:26
+msgid "Sebeolsik 3-2012 Yetgeul"
+msgstr "세벌식 3-2012 옛한글"
+
+#: src/fcitx-hangul.desc:27
+msgid "Sebeolsik 3-2014"
+msgstr "세벌식 3-2014"
+
+#: src/fcitx-hangul.desc:28
+msgid "Sebeolsik 3-2014 Yetgeul"
+msgstr "세벌식 3-2014 옛한글"
+
+#: src/fcitx-hangul.desc:29
+msgid "Sebeolsik 3-2015"
+msgstr "세벌식 3-2015"
+
+#: src/fcitx-hangul.desc:30
+msgid "Sebeolsik 3-2015 Yetgeul"
+msgstr "세벌식 3-2015 옛한글"
+
+#: src/fcitx-hangul.desc:31
+msgid "Sebeolsik 3-2015M"
+msgstr "세벌식 3-2015M"
+
+#: src/fcitx-hangul.desc:32
+msgid "Sebeolsik 3-2015P"
+msgstr "세벌식 3-2015P"
+
+#: src/fcitx-hangul.desc:33
+msgid "Sebeolsik 3-2015P Yetgeul"
+msgstr "세벌식 3-2015P 옛한글"
+
+#: src/fcitx-hangul.desc:34
+msgid "Sebeolsik 3-14 Proposal"
+msgstr "세벌식 3-14 표준제안 (연구)"
+
+#: src/fcitx-hangul.desc:35
+msgid "Sebeolsik Semoe 2014"
+msgstr "세벌식 세모이 2014"
+
+#: src/fcitx-hangul.desc:36
+msgid "Sebeolsik Noshift 1990"
+msgstr "세벌식 순아래 1990"
+
+#: src/fcitx-hangul.desc:37
+msgid "Sebeolsik Noshift 2014"
+msgstr "세벌식 순아래 2014"
+
+#: src/fcitx-hangul.desc:38
+msgid "Sebeolsik 3Gimguk-38A Yetgeul"
+msgstr "세벌식 김국 38A 옛한글"
+
+#: src/fcitx-hangul.desc:39
+msgid "Sebeolsik Shin 1995"
+msgstr "신세벌식 1995"
+
+#: src/fcitx-hangul.desc:40
+msgid "Sebeolsik Shin 2003"
+msgstr "신세벌식 2003"
+
+#: src/fcitx-hangul.desc:41
+msgid "Sebeolsik Shin 2012"
+msgstr "신세벌식 2012"
+
+#: src/fcitx-hangul.desc:42
+msgid "Sebeolsik Shin 2015"
+msgstr "신세벌식 2015"
+
+#: src/fcitx-hangul.desc:43
+msgid "Sebeolsik Shin M"
+msgstr "신세벌식 M"
+
+#: src/fcitx-hangul.desc:48
+msgid "Hanja Mode Toggle Key"
+msgstr "한자 모드 변환 키"
+
+#: src/fcitx-hangul.desc:53
+msgid "Auto Reorder"
+msgstr "자동 재배열"
+
+#: src/fcitx-hangul.desc:58
+msgid "Word Commit"
+msgstr "워드 커밋"
+
+#: src/fcitx-hangul.desc:63
+msgid "Hanja Mode"
+msgstr "한자 모드"
+
+#: src/fcitx-hangul.desc:68
+msgid "Base Layout"
+msgstr "기본 배열"
+
+#: src/fcitx-hangul.desc:70
+msgid "Dvorak"
+msgstr "드보락"
+
+#: src/fcitx-hangul.desc:71
+msgid "Colemak"
+msgstr "콜맥"
+
+#: src/fcitx-hangul.desc:72
+msgid "Qwerty"
+msgstr "쿼티"
